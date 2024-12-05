@@ -209,7 +209,7 @@ def descargar_cancion():
 
         elif opcion == "6":
             # Salir del programa
-            print(MAGENTA + "¡Gracias por usar el downloader! Hasta luego." + RESET)
+            print(MAGENTA + "¡Gracias por usar el descargador! Hasta luego. :)" + RESET)
             break
 
         else:
