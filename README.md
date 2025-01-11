@@ -6,7 +6,7 @@
 
 **Título:** Explorando Elipses e Hipérbolas  
 **Subtítulo:** Geometría Analítica para Todos  
-**Imágenes:** Una elipse y una hipérbola, con ejes principales y puntos destacados.
+**Imágenes sugeridas:** Una elipse y una hipérbola ilustradas con sus ejes principales, focos y vértices destacados.
 
 **Frase motivadora:** “Las matemáticas nos conectan con las formas más fascinantes del universo.”
 
@@ -14,88 +14,86 @@
 
 **Panel Interior Izquierdo: ¿Qué es una Elipse?**
 
-**Definición:** 
+**Definición:**
 Una elipse es el conjunto de todos los puntos en el plano cuya suma de distancias a dos puntos fijos, llamados focos, es constante.
 
-**Ecuación General:** 
-\[ \frac{(x - h)^2}{a^2} + \frac{(y - k)^2}{b^2} = 1 \]
-
-- **Ejes principales:**
-  - \(a\): Semieje mayor.
-  - \(b\): Semieje menor.
+**Ecuación General:**
+\[ \frac{(x - h)^2}{a^2} + \frac{(y - k)^2}{b^2} = 1 \]  
+Donde:
+- \((h, k)\): Centro de la elipse.
+- \(a\): Semieje mayor (distancia máxima desde el centro).
+- \(b\): Semieje menor (distancia mínima desde el centro).
 
 **Propiedades:**
-1. Si \(a > b\), la elipse es horizontal.
-2. Si \(b > a\), la elipse es vertical.
-3. Relación entre los focos: \(c^2 = a^2 - b^2\).
+1. Si \(a > b\), la elipse es horizontal.  
+   Si \(b > a\), la elipse es vertical.
+2. Relación entre los focos y el centro: \(c^2 = a^2 - b^2\).
+3. Los focos están ubicados a una distancia \(c\) del centro a lo largo del eje mayor.
 
 **Ejemplo Interactivo:**
-Coloca dos tachuelas en un corcho (los focos). Ata un hilo y usa un lápiz para dibujar la elipse.
+Coloca dos tachuelas en un corcho (los focos). Ata un hilo que las una, estíralo con un lápiz y traza la forma resultante.
 
-**Sugerencia de Imagen:** Diagrama de una elipse con sus focos, ejes principales y distancias marcadas.
+**Sugerencia de Imagen:** Diagrama de una elipse con sus focos, ejes principales y secundarios etiquetados.
 
 ---
 
 **Panel Interior Central: ¿Qué es una Hipérbola?**
 
-**Definición:** 
+**Definición:**
 Una hipérbola es el conjunto de todos los puntos en el plano cuya diferencia de distancias a dos puntos fijos, llamados focos, es constante.
 
-**Ecuación General:** 
+**Ecuación General:**
 \[ \frac{(x - h)^2}{a^2} - \frac{(y - k)^2}{b^2} = 1 \] (horizontal)  
 \[ \frac{(y - k)^2}{a^2} - \frac{(x - h)^2}{b^2} = 1 \] (vertical)
 
-- **Componentes:**
-  - \(a\): Distancia desde el centro a los vértices.
-  - \(b\): Relacionado con las asíntotas.
-  - \(c\): Distancia del centro a los focos, donde \(c^2 = a^2 + b^2\).
+**Componentes:**
+- \((h, k)\): Centro de la hipérbola.
+- \(a\): Distancia del centro a los vértices.
+- \(b\): Relacionado con las asíntotas.  
+- \(c\): Distancia del centro a los focos, donde \(c^2 = a^2 + b^2\).
 
 **Propiedades:**
-1. Las ramas son abiertas.
-2. Las asíntotas guían su forma.
+1. La hipérbola tiene dos ramas abiertas.  
+2. Las asíntotas son líneas rectas que guían la forma de las ramas.  
+   - Ecuación de las asíntotas (hipérbola horizontal): \(y - k = \pm \frac{b}{a}(x - h)\).
 
-**Actividad:**
-Usa una lámpara para proyectar sombras de un alambre curvado. Observa cómo las hipérbolas aparecen en óptica.
+**Actividad Interactiva:**
+Usa un alambre curvado para proyectar sombras con una lámpara. Observa cómo se forman las hipérbolas.
 
-**Sugerencia de Imagen:** Gráfico de una hipérbola con sus focos, asíntotas y ramas destacadas.
+**Sugerencia de Imagen:** Gráfico de una hipérbola con focos, vértices, asíntotas y ramas bien identificadas.
 
 ---
 
 **Panel Interior Derecho: Comparación y Aplicaciones**
 
-**Elipse:**
-- **Forma cerrada.**
-- Aplicaciones: 
-  - Órbitas planetarias.
-  - Arquitectura (cúpulas).
-
-**Hipérbola:**
-- **Forma abierta.**
-- Aplicaciones: 
-  - óptica (lentes).
-  - Trayectorias de escape.
-
 **Tabla Comparativa:**
-| Característica    | Elipse                  | Hipérbola              |
-|--------------------|-------------------------|-------------------------|
-| Ecuación          | \(\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1\) | \(\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1\) |
-| Focos             | Dentro de la figura    | Fuera de la figura      |
-| Curvatura         | Cerrada                | Abierta                |
+| Característica    | Elipse                                   | Hipérbola                              |
+|--------------------|------------------------------------------|----------------------------------------|
+| Ecuación          | \(\frac{(x-h)^2}{a^2} + \frac{(y-k)^2}{b^2} = 1\) | \(\frac{(x-h)^2}{a^2} - \frac{(y-k)^2}{b^2} = 1\) |
+| Forma             | Cerrada                                 | Abierta                                |
+| Focos             | Dentro de la figura                     | Fuera de la figura                     |
+| Aplicaciones      | Órbitas planetarias, acústica           | Óptica, trayectorias de escape         |
 
-**Sesón Práctica:** 
-Usa herramientas digitales como GeoGebra para explorar diferentes configuraciones de elipses e hipérbolas.
+**Aplicaciones Reales:**
+- **Elipses:**
+  - Órbitas de planetas y satélites (Leyes de Kepler).
+  - Diseño arquitectónico (cúpulas elípticas).
+- **Hipérbolas:**
+  - Diseño de lentes y telescopios.
+  - Sistemas GPS y trayectorias de escape.
 
-**Sugerencia de Imagen:** Representación de aplicaciones reales, como órbitas elípticas y trayectorias hiperbólicas.
+**Sugerencia de Imagen:** Ejemplos visuales: una órbita elíptica y una trayectoria hiperbólica con aplicaciones señaladas.
 
 ---
 
 **Curiosidades:**
-1. La elipse aparece en las trayectorias de los planetas, según Kepler.
-2. Las hipérbolas se usan en sistemas GPS para determinar ubicaciones.
+1. **Elipses en la historia:** Johannes Kepler utilizó las elipses para describir las órbitas planetarias en el siglo XVII.
+2. **Hipérbolas en la naturaleza:** Algunas trayectorias de cometas alrededor del Sol son hiperbólicas.
+3. **Avances tecnológicos:** Las antenas parabólicas, basadas en principios de las cónicas, mejoran las comunicaciones globales.
 
-**Contenido adicional:**
-- **Historia:** La elipse y la hipérbola fueron estudiadas por matemáticos griegos como Apolonio de Perga, quien las llamó "secciones cónicas".
-- **Datos sorprendentes:** Las antenas parabólicas y los espejos utilizan principios de las hipérbolas y elipses para enfocar señales o luz.
+**Contenido Adicional:**
+- **Historia Matemática:** Las secciones cónicas fueron estudiadas por Apolonio de Perga hace más de 2000 años.
+- **Dato Sorprendente:** Las cónicas aparecen en la intersección de un cono con un plano en diferentes ángulos.
 
-**Sugerencia de Imagen:** Ilustración de aplicaciones históricas y modernas, como instrumentos astronómicos y antenas GPS.
+**Sugerencia de Imagen:** Ilustración histórica de las cónicas y su evolución hasta aplicaciones modernas (como antenas y telescopios).
 
